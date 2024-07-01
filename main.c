@@ -1,4 +1,7 @@
 int main()
 {
-  int y;
+ int y;
+  int a;
+  int b;
+  int t;
 }
